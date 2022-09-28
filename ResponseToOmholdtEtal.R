@@ -24,7 +24,7 @@
 # ==== GENERAL SETUP: =====
 # ========================= #
 # set working directory (change accordingly):
-setwd("~/FERNANDO/PROJECTS/1.ACTIVE/TestudinesSenescence/analysisTestudinesSenes/code/responseToOmholdtEtal/")
+setwd("Path to directory/responseToOmholdtEtal/")
 
 # Load survival and mortality (i.e. hazard rate) curves in (1) 
 # for T. scripta and T. graeca:
